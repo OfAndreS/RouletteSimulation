@@ -18,6 +18,9 @@ O script gera um gráfico que visualiza a evolução do dinheiro dos apostadores
   - As **linhas cinzas** representam a trajetória financeira de apostadores individuais. Note como algumas são extremamente voláteis, com grandes ganhos ou perdas.
   - A **linha vermelha** representa a **média** do dinheiro de todos os apostadores a cada rodada de aposta. Ela mostra a tendência esperada do jogo, que neste caso é um ganho médio positivo ao longo do tempo.
 
+<img width="1186" height="690" alt="image" src="https://github.com/user-attachments/assets/8863649b-c59c-4252-85bc-10c62155c101" />
+
+
 ## 🚀 Como Executar o Projeto
 
 Siga os passos abaixo para configurar e rodar a simulação.
