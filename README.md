@@ -1,4 +1,4 @@
-# Simulação Computacional - CoinGain
+# RouletteSimulation
 
 Este projeto é uma simulação de Monte Carlo que modela e visualiza os resultados financeiros de múltiplos apostadores em um jogo de azar simples. O objetivo é demonstrar como, apesar dos resultados aleatórios para cada indivíduo, a média de um grande número de simulações converge para um valor esperado, revelando a tendência real do jogo.
 
