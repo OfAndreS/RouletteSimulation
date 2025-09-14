@@ -2,7 +2,7 @@
 
 Este projeto é uma simulação de Monte Carlo que modela e visualiza os resultados financeiros de múltiplos apostadores em um jogo de azar simples. O objetivo é demonstrar como, apesar dos resultados aleatórios para cada indivíduo, a média de um grande número de simulações converge para um valor esperado, revelando a tendência real do jogo.
 
-## 🎲 Como Funciona
+## Como Funciona
 
 A simulação é baseada em um jogo onde cada aposta tem as seguintes regras:
 
@@ -11,7 +11,7 @@ A simulação é baseada em um jogo onde cada aposta tem as seguintes regras:
 
 O programa executa esta lógica para um número configurável de "apostadores" (simulações) ao longo de um número também configurável de "apostas". Ao final, ele calcula a trajetória financeira média de todos os apostadores e a plota em um gráfico para análise.
 
-## 📊 Saída do Gráfico
+## Saída do Gráfico
 
 O script gera um gráfico que visualiza a evolução do dinheiro dos apostadores.
 
@@ -21,7 +21,7 @@ O script gera um gráfico que visualiza a evolução do dinheiro dos apostadores
 <img width="1186" height="690" alt="image" src="https://github.com/user-attachments/assets/8863649b-c59c-4252-85bc-10c62155c101" />
 
 
-## 🚀 Como Executar o Projeto
+## Como Executar o Projeto
 
 Siga os passos abaixo para configurar e rodar a simulação.
 
